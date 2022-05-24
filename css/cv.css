@@ -1,0 +1,31 @@
+body {
+    font: normal normal normal 16pt/19.2pt Cascadia Code, Arial, sans-serif;
+}
+td {
+    color: blueviolet;
+    font-weight: bold;
+}
+button {
+    margin-right: 25px;
+}
+table {
+    width: 60%;
+}
+table, td, th {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+#tech {
+    color: purple;
+}
+#address {
+    font-size:1.2em;
+    color:red;
+    font-weight:bold;
+}
+.italic {
+    font-style: italic;
+}
+.red {
+    color: red;
+}
